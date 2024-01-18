@@ -1,9 +1,9 @@
 sad# Contributors
 - test
 - secret
--[Stacy Jacqueen](https://github.com/Jacquee18)
--[Justin Jed Castillo Hipolito](https://github.com/Compache204)
--[Jakob Martin](https://github.com/jakobistjakob)
+- [Stacy Jacqueen](https://github.com/Jacquee18)
+- [Justin Jed Castillo Hipolito](https://github.com/Compache204)
+- [Jakob Martin](https://github.com/jakobistjakob)
 - [Stelios Gee](https://github.com/SteliosGee)
 - [Codemanticism](https://github.com/codemanticism)
 - [Flavio Emanuele Cannavò](https://github.com/flaviocnn)
